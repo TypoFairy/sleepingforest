@@ -1,2 +1,2 @@
 # sleepingforest
-stuff should pop up here one day
+typos repository for lame stuff
