@@ -48,7 +48,7 @@ class Whale:
           self.save_items()
           await self.bot.say("Habitat added.")
 
-    @slap.command()
+    @whale.command()
     @checks.is_owner()
     async def remove(self, item):
         """Removes item"""
