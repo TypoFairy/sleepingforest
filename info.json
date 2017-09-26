@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Eslyium modded by Typo",
+    "SHORT" : "Allows You to whale People",
+    "DESCRIPTION" : "A Fun Cog That Allows You To whale People in their natual habitats.",
+    "DISABLED" : false,
+    "NAME" : "Whale",
+    "TAGS" : ["whale"],
+    "INSTALL_MSG" : "Congrats On Downloading The whale Cog!"
+}
